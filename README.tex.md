@@ -18,4 +18,5 @@ the ones place, we get 6 * 2 = 12.
 - Therefore 96*20=1900+20+0=1920.
 
 The flow chart of this algorithm is as shown below:
-<img src="https://drive.google.com/drive/u/0/search?q=multiplier">
+
+<img src="https://github.com/ConceptaNjolima/Multi-digit-multiplication/blob/main/Multiplier_flowChart.png">
